@@ -325,7 +325,7 @@ const CarListing = () => {
                   );
                 })
               ) : (
-                <div className="flex justify-center items-center h-[50rem] md:h-[100vh] bg-black">
+                <div className="flex justify-center items-center h-[50rem] md:h-[100vh] md:w-full bg-black">
                   <div className="text-center">
                     <p className="text-xl text-whiteText">Oops!</p>
                     <p className="text-2xl text-whiteText">
